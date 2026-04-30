@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables — NEVER push these
+.env
+.env.local
+.env.production
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code personal settings
+.vscode/settings.json
